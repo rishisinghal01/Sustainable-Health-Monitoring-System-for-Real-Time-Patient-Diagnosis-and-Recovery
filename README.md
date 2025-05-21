@@ -1,4 +1,5 @@
-# Medicure
+# Sustainable-Health-Monitoring-System-for-Real-Time-Patient-Diagnosis-and-Recovery
+
 
 Medicure is an AI-driven medical platform designed to help users manage and improve their health. It provides personalized exercise plans, medicine suggestions, and lifestyle recommendations based on user input.
 
